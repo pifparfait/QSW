@@ -24,6 +24,7 @@ Sat Oct 17 09:00:34 2020 EDT
 ## Authors and Citation
 
 Parfait Atchade 
+[QSWP]
 parfait.atchade@salle.url.edu
 
 
