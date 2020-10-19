@@ -1,6 +1,6 @@
-# QSW
+# QSWP
 The social workers' schedule problem is defined by generating an optimal visiting schedule for the social workers, who visit their patients at home, to provide them with personalized attention and assistance depending on the patient's pathology.
-Welcome to the [QSW] project!
+Welcome to the [QSWP] project!
 
 In this repository, I have put together a collection of Jupyter notebooks intended to disseminate the research I have been doing, I'm doing and my lines of future research on the Social Workers' Problem. I am using Qiskit to write quantum computer programs and run them in one of the various backends (online quantum processors, online simulators and local simulators). Online quantum processors are [IBM Q] devices (https://quantum-computing.ibm.com).
 
